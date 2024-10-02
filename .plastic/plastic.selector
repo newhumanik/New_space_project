@@ -1,0 +1,4 @@
+repository "New_space_project@one_shovel@cloud"
+  path "/"
+    br "/main"
+    co "/main"
